@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PicoRF")(type "KiCad")(uri "${KIPRJMOD}/components/symbols/PicoRF.kicad_sym")(options "")(descr ""))
+  (lib (name "pma2-33ln+")(type "KiCad")(uri "${KIPRJMOD}/components/symbols/pma2-33ln+.kicad_sym")(options "")(descr ""))
+)
